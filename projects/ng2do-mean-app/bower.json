@@ -1,0 +1,24 @@
+{
+  "name": "ng2do-mean-app",
+  "description": "Developing a MEAN app with Angular 2.0",
+  "main": "server.js",
+  "authors": [
+    "Arvind Ravulvaru"
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

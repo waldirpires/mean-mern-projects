@@ -1,0 +1,21 @@
+{
+  "name": "ng2do-mean-app",
+  "version": "0.1.0",
+  "description": "Developing a MEAN app with Angular 2.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arvind Ravulvaru",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "mongojs": "^0.18.2",
+    "morgan": "^1.7.0",
+    "path": "^0.11.14",
+    "rx": "^4.1.0"
+  }
+}
